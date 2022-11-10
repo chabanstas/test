@@ -41,3 +41,4 @@ jobs:
                   ACCESS_TOKEN: ${{'secrets.ACCESS_TOKEN'}}
                   BRANCH: master # The branch the action should deploy to.
                   FOLDER: html-reports # The folder the action should deploy.
+                  TARGET_FOLDER: docs
